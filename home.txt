@@ -1,4 +1,5 @@
 Header
 Login Page
+SignUp Page
 Footer
 
